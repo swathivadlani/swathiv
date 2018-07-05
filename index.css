@@ -1,0 +1,17 @@
+body{
+background:lightblue;
+text-align: center;
+}
+img{
+width:30%;
+border-radius:25%;
+}
+.card{
+background:lightpink;
+border-radius:20;
+}
+#card{
+justify-content: space-around;
+margin:2%;
+border-radius:2em;
+}
